@@ -7,7 +7,7 @@
 # |  __  |/ _` |/ __| |/ / _ \ '__| |  ___/ '__/ _ \ 
 # | |  | | (_| | (__|   <  __/ |    | |   | | | (_) |
 # |_|  |_|\__,_|\___|_|\_\___|_|    |_|   |_|  \___/ 
-#          Hacking Tools by-Technical Dada
+#          Hacking Tools by-MONSTER LALLU
 
 import sys
 import argparse
